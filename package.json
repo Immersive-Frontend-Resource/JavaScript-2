@@ -1,0 +1,23 @@
+{
+  "name": "javascript-2",
+  "version": "1.0.0",
+  "description": "Tugas Alta Immersive Frontend Fundamental Programming (JavaScript #2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Immersive-Frontend-Resource/JavaScript-2.git"
+  },
+  "keywords": [],
+  "author": "Alterra Academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Immersive-Frontend-Resource/JavaScript-2/issues"
+  },
+  "homepage": "https://github.com/Immersive-Frontend-Resource/JavaScript-2#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
