@@ -7,7 +7,7 @@ Tugas Alta Immersive Frontend Fundamental Programming (JavaScript #2)
 1. Clone repository ini dengan cara
 
 ```
-git clone git@github.com:Immersive-Frontend-Resource/JavaScript-2.git
+git clone -b typescript git@github.com:Immersive-Frontend-Resource/JavaScript-2.git
 ```
 
 setelah itu buat repository pada github organization kalian dengan format `JavaScript-2`, lalu copy link SSH seperti gambar dibawah

@@ -1,4 +1,4 @@
-const cetakTablePerkalian = require("./problem2");
+import cetakTablePerkalian from "./problem2";
 
 test("Test 1", () => {
   expect(cetakTablePerkalian(9)).toEqual(

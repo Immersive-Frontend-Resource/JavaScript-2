@@ -1,4 +1,4 @@
-const makeDiamond = require("./problem3");
+import makeDiamond from "./problem3";
 
 test("Test 1", () => {
   expect(makeDiamond("C")).toEqual("··A··\n·B·B·\nC···C\n·B·B·\n··A··\n");

@@ -1,4 +1,4 @@
-const findMaxSumSubArray = require("./problem4");
+import findMaxSumSubArray from "./problem4";
 
 test("Test 1", () => {
   expect(findMaxSumSubArray(3, [2, 1, 5, 1, 3, 2])).toEqual(9);
